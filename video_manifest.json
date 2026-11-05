@@ -1,62 +1,74 @@
 [
   {
     "exercise": "Push-ups",
-    "filename": "videos/push-ups.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=aogCtRflfkY&t=2614s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/aogCtRflfkY?start=2614&end=2629",
+    "source_page": "https://www.joy2move.net/exercises/push-up-bodyweight"
   },
   {
     "exercise": "Dumbbell floor press",
-    "filename": "videos/dumbbell-floor-press.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=riT31sLb8HU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/riT31sLb8HU",
+    "source_page": "https://notbroken.io/videos/tech-dumbbell-floor-press/index.html"
   },
   {
     "exercise": "Dumbbell overhead press",
-    "filename": "videos/dumbbell-overhead-press.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=Xe46OZUnBg0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Xe46OZUnBg0",
+    "source_page": "https://seqd.app/exercises/dumbbell-shoulder-press/"
   },
   {
     "exercise": "Dumbbell curls",
-    "filename": "videos/dumbbell-curls.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=DzFarhTjvak&t=449s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DzFarhTjvak?start=449&end=464",
+    "source_page": "https://www.joy2move.net/exercises/biceps-curl-dumbbell"
   },
   {
     "exercise": "Reverse crunch + hip lift",
-    "filename": "videos/reverse-crunch-hip-lift.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=-7NFqRjI7Ek&t=149s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/-7NFqRjI7Ek?start=149&end=164",
+    "source_page": "https://www.joy2move.net/exercises/reverse-crunch-bodyweight"
   },
   {
     "exercise": "Weighted crunch",
-    "filename": "videos/weighted-crunch.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=_O1xunCfYEM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/_O1xunCfYEM",
+    "source_page": "https://www.youtube.com/watch?v=_O1xunCfYEM"
   },
   {
     "exercise": "One-arm dumbbell row",
-    "filename": "videos/one-arm-dumbbell-row.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=huWMn_T1J9E",
+    "embed_url": "https://www.youtube-nocookie.com/embed/huWMn_T1J9E",
+    "source_page": "https://seqd.app/exercises/one-arm-dumbbell-row/"
   },
   {
     "exercise": "Goblet squat",
-    "filename": "videos/goblet-squat.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=Xjo_fY9Hl9w",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Xjo_fY9Hl9w",
+    "source_page": "https://www.youtube.com/watch?v=Xjo_fY9Hl9w"
   },
   {
     "exercise": "Dumbbell Romanian deadlift",
-    "filename": "videos/dumbbell-romanian-deadlift.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=ns4yaYrQAEc&t=930s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ns4yaYrQAEc?start=930&end=945",
+    "source_page": "https://www.joy2move.net/exercises/romanian-deadlift-dumbbell"
   },
   {
     "exercise": "Overhead triceps extension",
-    "filename": "videos/overhead-triceps-extension.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=PWiAEt3R16M&t=1048s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PWiAEt3R16M?start=1048&end=1063",
+    "source_page": "https://www.joy2move.net/exercises/overhead-triceps-extension-dumbbell"
   },
   {
     "exercise": "Side plank",
-    "filename": "videos/side-plank.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=NXr4Fw8q60o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/NXr4Fw8q60o",
+    "source_page": "https://www.youtube.com/watch?v=NXr4Fw8q60o"
   },
   {
     "exercise": "Dead bug",
-    "filename": "videos/dead-bug.mp4",
-    "status": "not included"
+    "video_url": "https://www.youtube.com/watch?v=R0SVv4erTqI&t=89s",
+    "embed_url": "https://www.youtube-nocookie.com/embed/R0SVv4erTqI?start=89&end=104",
+    "source_page": "https://www.joy2move.net/exercises/dead-bug-bodyweight"
   }
 ]
