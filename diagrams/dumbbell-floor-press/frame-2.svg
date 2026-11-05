@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Dumbbell floor press phase 2">
+ <g transform="translate(0 -100) scale(1 1.5)"><rect width="512" height="512" fill="none"/>
+ <g stroke="#dce9e3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+ <path d="M62 366 H460" stroke-width="5" opacity=".65"/>
+ <path d="M160 322 C200 311 246 312 313 318" stroke-width="32"/>
+ <circle cx="125" cy="310" r="22" stroke-width="13"/>
+ <path d="M315 323 L352 266 L390 330 L426 354" stroke-width="22"/>
+ <path d="M318 331 L355 335 L390 358" stroke-width="19" opacity=".7"/>
+ <path d="M235 307 L250 225 L245 180" stroke-width="18"/>
+ <path d="M222 178 L268 182" stroke-width="8"/>
+ <path d="M222 163 L222 193 M268 167 L268 197" stroke-width="15"/>
+ </g><path d="M122 303 L130 305" stroke="#dce9e3" stroke-width="4" stroke-linecap="round"/>
+ </g></svg>

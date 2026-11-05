@@ -1,0 +1,140 @@
+[
+  {
+    "exercise_key": "pushup",
+    "slug": "push-up",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/push-up/",
+    "license": "CC BY-SA 4.0",
+    "upstream": {
+      "name": "Everkinetic",
+      "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0077-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+    }
+  },
+  {
+    "exercise_key": "floorpress",
+    "slug": "dumbbell-floor-press",
+    "artist": "Lean Runner project",
+    "library": "Original diagram",
+    "source_url": "https://github.com/zanehuggins/zane-health/tree/gh-pages/diagrams/dumbbell-floor-press",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  },
+  {
+    "exercise_key": "overheadpress",
+    "slug": "standing-dumbbell-press",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/standing-dumbbell-press/",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  },
+  {
+    "exercise_key": "curls",
+    "slug": "bicep-curl",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/bicep-curl/",
+    "license": "CC BY-SA 4.0",
+    "upstream": {
+      "name": "Everkinetic",
+      "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0224-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+    }
+  },
+  {
+    "exercise_key": "reversecrunch",
+    "slug": "reverse-crunch",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/reverse-crunch/",
+    "license": "CC BY-SA 4.0",
+    "upstream": {
+      "name": "Everkinetic",
+      "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0287-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+    }
+  },
+  {
+    "exercise_key": "weightedcrunch",
+    "slug": "weighted-crunch",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/weighted-crunch/",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  },
+  {
+    "exercise_key": "row",
+    "slug": "one-arm-dumbbell-row",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/one-arm-dumbbell-row/",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  },
+  {
+    "exercise_key": "squat",
+    "slug": "goblet-squat",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/goblet-squat/",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  },
+  {
+    "exercise_key": "rdl",
+    "slug": "dumbbell-romanian-deadlift",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/dumbbell-romanian-deadlift/",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  },
+  {
+    "exercise_key": "triceps",
+    "slug": "dumbbell-overhead-tricep-extension",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/dumbbell-overhead-tricep-extension/",
+    "license": "CC BY-SA 4.0",
+    "upstream": {
+      "name": "Everkinetic",
+      "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0194-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+    }
+  },
+  {
+    "exercise_key": "sideplank",
+    "slug": "side-plank",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/side-plank/",
+    "license": "CC BY-SA 4.0",
+    "upstream": {
+      "name": "Everkinetic",
+      "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0113-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+    }
+  },
+  {
+    "exercise_key": "deadbug",
+    "slug": "dead-bug",
+    "artist": "Bryl Lim",
+    "library": "Workout Guide",
+    "source_url": "https://bryllim.github.io/workout-guide/exercises/dead-bug/",
+    "license": "CC BY-SA 4.0",
+    "upstream": null
+  }
+]
