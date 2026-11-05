@@ -1,0 +1,62 @@
+[
+  {
+    "exercise": "Push-ups",
+    "filename": "videos/push-ups.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Dumbbell floor press",
+    "filename": "videos/dumbbell-floor-press.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Dumbbell overhead press",
+    "filename": "videos/dumbbell-overhead-press.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Dumbbell curls",
+    "filename": "videos/dumbbell-curls.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Reverse crunch + hip lift",
+    "filename": "videos/reverse-crunch-hip-lift.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Weighted crunch",
+    "filename": "videos/weighted-crunch.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "One-arm dumbbell row",
+    "filename": "videos/one-arm-dumbbell-row.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Goblet squat",
+    "filename": "videos/goblet-squat.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Dumbbell Romanian deadlift",
+    "filename": "videos/dumbbell-romanian-deadlift.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Overhead triceps extension",
+    "filename": "videos/overhead-triceps-extension.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Side plank",
+    "filename": "videos/side-plank.mp4",
+    "status": "not included"
+  },
+  {
+    "exercise": "Dead bug",
+    "filename": "videos/dead-bug.mp4",
+    "status": "not included"
+  }
+]
